@@ -4,6 +4,6 @@ Create a chat to talk to other people in realtime
 
 ## To run:
 
-```json
+```sh
 yarn dev
 ```
