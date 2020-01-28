@@ -1,0 +1,19 @@
+{
+  "name": "chat-realtime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Truta446/chat-realtime.git",
+  "author": "Juan Lopes <juan.versolato@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
